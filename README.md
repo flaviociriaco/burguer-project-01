@@ -41,6 +41,7 @@ Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenv
     ```
 3.  Abra o arquivo `index.html` no seu navegador.
 
+```
 ## Estrutura de Arquivos
 burguer-project-01/
 ├── assets/
@@ -54,4 +55,16 @@ burguer-project-01/
 │   └── output.css     (Arquivo CSS gerado pelo Tailwind CLI)
 ├── index.html         (Arquivo HTML principal)
 └── script.js          (Arquivo JavaScript para a interatividade)
+```
 
+## Considerações Finais
+
+Este projeto é uma demonstração simples de uma página de cardápio com funcionalidades básicas de carrinho de compras. Pode ser expandido com mais recursos, como um sistema de login, um carrinho de compras mais detalhado, integração com um sistema de pagamento real e um painel de administração.
+
+## Créditos
+
+* As imagens dos hambúrgueres e refrigerantes foram utilizadas para fins de demonstração. Os créditos das imagens podem ser encontrados em seus respectivos arquivos, se aplicável.
+* Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
+* Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+* Boxicons: [https://boxicons.com/](https://boxicons.com/)
+* Toastify.js: [https://apvarun.github.io/toastify-js/](https://apvarun.github.io/toastify-js/)
