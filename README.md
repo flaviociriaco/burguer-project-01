@@ -42,3 +42,16 @@ Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenv
 3.  Abra o arquivo `index.html` no seu navegador.
 
 ## Estrutura de Arquivos
+burguer-project-01/
+├── assets/
+│   ├── hamb-1.png
+│   ├── hamb-2.png
+│   ├── hamb-3.png
+│   ├── hamb-4.png
+│   ├── refri-1.png
+│   └── refri-2.png
+├── styles/
+│   └── output.css     (Arquivo CSS gerado pelo Tailwind CLI)
+├── index.html         (Arquivo HTML principal)
+└── script.js          (Arquivo JavaScript para a interatividade)
+
