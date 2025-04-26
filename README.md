@@ -4,6 +4,8 @@
 
 Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenvolvido com base em um tutorial do canal YouTube "Sujeito Programador". Através desta experiência prática, pude consolidar meus conhecimentos e aprender muito sobre as tecnologias utilizadas, principalmente a estilização com **Tailwind CSS** e a interatividade com **JavaScript**, aprimorando minhas habilidades no desenvolvimento front-end. O site apresenta um cardápio convidativo com deliciosos hambúrgueres e bebidas, permitindo que os clientes adicionem itens a um carrinho de compras e simulem um pedido completo.
 
+<img src="./assets/print-tela.png" alt="Tela Home do site" >
+
 ## Funcionalidades
 
 * **Visualização do Cardápio:** Apresenta os hambúrgueres e bebidas disponíveis com seus respectivos nomes, descrições e preços.
