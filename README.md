@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenvolvido com base em um tutorial do canal YouTube "Sujeito Programador". Através desta experiência prática, pude consolidar meus conhecimentos e aprender muito sobre as tecnologias utilizadas, principalmente a estilização com **Tailwind CSS** e a interatividade com **JavaScript**, aprimorando minhas habilidades no desenvolvimento front-end. O site apresenta um cardápio convidativo com deliciosos hambúrgueres e bebidas, permitindo que os clientes adicionem itens a um carrinho de compras e simulem um pedido completo.
+Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenvolvido com base em um tutorial do canal YouTube "Sujeito Programador". Através desta experiência prática, pude consolidar meus conhecimentos e aprender muito sobre as tecnologias utilizadas, principalmente a estilização com Tailwind CSS e a interatividade com JavaScript, aprimorando minhas habilidades no desenvolvimento front-end. Para o desenvolvimento, utilizei Node.js. O site apresenta um cardápio convidativo com deliciosos hambúrgueres e bebidas, permitindo que os clientes adicionem itens a um carrinho de compras e simulem um pedido completo.
 
 <img src="./assets/print-tela.png" alt="Tela Home do site" >
 
@@ -23,6 +23,7 @@ Este projeto de uma página web para a hamburgueria "Project Burguer" foi desenv
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> **HTML:** Estrutura da página web.
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> **CSS:** Estilização da página (principalmente através do Tailwind CSS).
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> **JavaScript:** Interatividade da página, como adicionar itens ao carrinho, abrir/fechar o modal e finalizar o pedido.
+* <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/"> **Node.js:** Ambiente de execução JavaScript do lado do servidor para construir o backend da aplicação.
 * <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> **Tailwind CSS:** Framework CSS para estilização rápida e responsiva.
 * <img src="https://img.shields.io/badge/Google_Fonts-676767?style=for-the-badge&logo=google-fonts&logoColor=white" alt="Google Fonts"> **Google Fonts:** Para a fonte "Poppins".
 * <img src="https://img.shields.io/badge/Boxicons-000?style=for-the-badge&logo=boxicons&logoColor=white" alt="Boxicons"> **Boxicons:** Biblioteca de ícones.
